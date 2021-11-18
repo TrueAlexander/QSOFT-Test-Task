@@ -471,6 +471,9 @@ a:hover {
     padding-left: 30px;
     margin: 0;
   }
+  .search input:hover, .search input:focus {
+    border: none;
+  }
   .search::before {
     left: 5px;
   }

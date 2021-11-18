@@ -439,6 +439,9 @@ a:hover {
       padding-left: 30px;
       margin: 0;  
     }
+    input:hover, input:focus {
+      border:none;
+    } 
   }
 
   .search::before {
